@@ -46,9 +46,9 @@ For the detailed configuration process, commands, Bash scripts, and explanations
 
 - **Control Device:** Android mobile device
 - **Administration Environment:** Termux
-- **Managed Operating Systems:** Rocky Linux
+- **Managed Operating Systems:** Rocky Linux 10
 - **Remote Access:** SSH, SSH key-based authentication
 - **Configuration Management:** Ansible
 - **Automation:** Bash scripting
 - **Administrative Operations:** System updates and shutdown operations
-- **Managed Infrastructure:** Two Rocky Linux servers
+- **Managed Infrastructure:** Two Rocky Linux 10 servers
