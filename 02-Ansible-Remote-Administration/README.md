@@ -40,7 +40,7 @@ I configured secure SSH key-based authentication and used Ansible to remotely ad
 
 For the detailed configuration process, commands, Bash scripts, and explanations, see:
 
-[Open the Jupyter Notebook](02-Ansible-Remote-Administration/Mobile-Linux-Administration.ipynb)
+[Open the Jupyter Notebook](https://github.com/mckrause2/Linux-Administration-Portfolio/blob/047d124d65b4c59e99eb6a60ca0c59badc1a1ef9/02-Ansible-Remote-Administration/Mobile-Linux-Administration.ipynb)
 
 ## Environment
 
