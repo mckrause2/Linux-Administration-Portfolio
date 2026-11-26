@@ -25,7 +25,7 @@
 ####
 ## Techinal Documentation
 #### For the detailed troubleshooting process, commands, and explanations, see:
-#### [Open the Jupyter Notebook](https://github.com/mckrause2/Linux-Administration-Portfolio/blob/22678b90ca957a3f6fff381245ab63bfab04e1e2/01-openSUSE-Boot-Recover/openSUSE-troubleshooting-walkthrough.ipynb))
+#### [Open the Jupyter Notebook](https://github.com/mckrause2/Linux-Administration-Portfolio/blob/22678b90ca957a3f6fff381245ab63bfab04e1e2/01-openSUSE-Boot-Recover/openSUSE-troubleshooting-walkthrough.ipynb)
 ####
 ## Environment
 - Operating System: openSUSE Leap
